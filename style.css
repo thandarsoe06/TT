@@ -14,7 +14,7 @@ body{
 
 /* ===== NAVBAR ===== */
 header{
-    padding:20px 8%;
+    padding:20px 40px;
     background:#f3e7dc;
     position: sticky;
     top: 0;
